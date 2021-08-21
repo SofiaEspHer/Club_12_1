@@ -3,7 +3,9 @@
 
 # **Evaluación *in silico* de Favipiravir para su reposicionamiento contra COVID-19**
 
-Espinosa-Hernández S; Hurtado-Solórzano J.A.; Ruiz-Sánchez E. https://www.linkedin.com/in/ers96/.
+Espinosa Hernández Sofía; 
+Hurtado Solórzano J. Adrián; 
+Ruiz Sánchez, Elliot. https://www.linkedin.com/in/ers96/.
 
 **Benemérita Universidad Autónoma de Puebla. Pue,Pue,México; Universidad Michoacana de San Nicolás de Hidalgo. Morelia, Mich, México; Centro de Investigación y de Estudios Avanzados del IPN. Zapopán, Jal, México.**
 
