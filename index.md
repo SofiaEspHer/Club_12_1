@@ -10,7 +10,7 @@ Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
 
 La emergencia sanitaria causada por la COVID-19 (Coronavirus disease-2019) ha cobrado hasta principios de agosto 256,246 vidas (CONACYT, 2020) debido a la falta de un tratamiento, encendiendo las alarmas sanitarias a nivel mundial desde el inicio de la pandemia; aún con la aplicación de vacunas aprobadas por emergencia sanitaria, tan sólo el 24.2% de la población mundial ha sido inmunizada (Mathieu, E. et al. 2021), sin mencionar que sólo funcionan como medio preventivo de un cuadro grave de la enfermedad y no como tratamiento contra ella. Es por esto lo que se ha convertido en una necesidad el desarrollo de un fármaco antiviral contra SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2), sin embargo, el desarrollo de un fármaco de in novo es un procedimiento muy largo y costoso. Considerando lo anterior se han desarrollado diversos estudios de reposicionamiento de fármacos, basados en el uso de un fármaco existente con un nuevo fin terapéutico contra el COVID-19.
 
-Ctrl + Click -> Image to watch video
+Ctrl + Left Click -> Image to watch video
 
 [![Figura 1  Estructura de Favipiravir-RTP en su forma activa](https://user-images.githubusercontent.com/78750648/130305434-651375f0-fd4f-4aa3-8b71-2434fd5ec6a6.png)](https://drive.google.com/file/d/19UUWIch3K4xhXOizby23gQfjP_JocyAH/view?usp=sharing)
 
@@ -50,13 +50,17 @@ Por medio de la plataforma SwissParam, se obtuvieron los archivos necesarios par
 
 Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo, para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
 
-[![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)]
+Ctrl + Left Click -> Image to watch video
+
+[![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)](https://drive.google.com/file/d/1az3YkJq19maVqILqgyMrKTEnUEgf6Q9b/view?usp=sharing)
 
 *Figura 3. Primer modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.9 kcal/mol*
 
 Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad y es posible que dentro del organismo logre bloquear a la RdRp.
 
-[![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)](https://drive.google.com/file/d/1OrvfGjTl0mjXkIiSxDaiFEEClj3ZjekU/view?usp=sharing)
+Ctrl + Left Click -> Image to watch video
+
+[![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)](https://drive.google.com/file/d/1JygHFlHjpaN0FzgCPES17FA908M-KHzE/view?usp=sharing)
 
 *Figura 4. Noveno modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.4 kcal/mol*
 
@@ -118,6 +122,15 @@ El modelo nueve, tiene el valor más alto de potencial siendo de aproximadamente
 ![Imagen14](https://user-images.githubusercontent.com/78750648/130306491-b6f67259-f833-4909-88c1-b6da9bdbc682.png) ![Imagen15](https://user-images.githubusercontent.com/78750648/130306494-33129926-b3d6-41ca-a321-ff1033a97eb2.png)
 
 *Figura 9. Potencial de energía Coul-SR de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp*
+
+Ctrl + Left Click -> Image to watch video
+
+[![Lig1](https://user-images.githubusercontent.com/78750648/130309398-4ea30789-6dbd-417c-b482-ad17c123dca9.JPG)](https://drive.google.com/file/d/1Ebg-bEFKedPiHWHMy9skL56NLrgT1RIs/view?usp=sharing)
+
+Ctrl + Left Click -> Image to watch video
+
+[![lig2](https://user-images.githubusercontent.com/78750648/130309399-475b41d9-b21e-4e2c-b16c-772618df4934.JPG)]((https://drive.google.com/file/d/1eaP1nPgukzrv2DvbTNhupqNvtJFNrgeD/view?usp=sharing))
+
 
 Comparando todas las interacciones  entre el primer modelo de acoplamiento y el último podemos observar que, sin importar la diferencia de valores entre los parámetros anteriores, es evidente que el fármaco Favipiravir-RTP tiene interacción con la RdRp. Asimismo, el modelo con menor afinidad en el acoplamiento molecular, demostró tener un mayor potencial de Coul-SR, arrojando que tiene una fuerte interacción electrostática pero por menor tiempo. Por último, el primer modelo presentó valores bajos en las interacciones pero mucho más estables, por lo cual es posible suponer que la inhibición de la RdRp puede lograrse sin problemas.
 
