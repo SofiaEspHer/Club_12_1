@@ -56,7 +56,7 @@ Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde 
 
 Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad y es posible que dentro del organismo logre bloquear a la RdRp.
 
-[![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)(https://drive.google.com/file/d/1OrvfGjTl0mjXkIiSxDaiFEEClj3ZjekU/view?usp=sharing)]
+[![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)](https://drive.google.com/file/d/1OrvfGjTl0mjXkIiSxDaiFEEClj3ZjekU/view?usp=sharing)
 
 https://user-images.githubusercontent.com/78750648/130306066-618b5f54-98a6-474f-b5ef-38f0149df7ab.mov
 
