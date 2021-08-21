@@ -127,4 +127,36 @@ https://user-images.githubusercontent.com/78750648/130306661-1b7365b4-e190-4bee-
 
 https://user-images.githubusercontent.com/78750648/130306671-b6a643e9-2e58-4df7-81ce-569f9dd021e8.mp4
 
+## **4. Futuras líneas de investigación**
 
+### *4.1  Desarrollo del estudio pre-clínico*
+
+Los fármacos evaluados han pasado por las etapas de desarrollo para su aplicación clínica, lo anterior otorga conocimientos en cuestión de seguridad, farmacodinámica y farmacocinética, reduciendo el riesgo de aplicación para reposicionamiento (Carranza, A. S. et al. 2020).
+
+El reposicionamiento de Favipiravir-RTP como tratamiento contra la COVID-19 ha sido estudiado por diversos científicos, destacando la investigación de la Red Argentina Pública de Evaluación de Tecnologías Sanitarias concluyendo que dicho fármaco lograría unirse a dominios de polimerasa conservados, sin embargo no recomiendan ampliamente el uso de Favipiravir por cual proponemos los siguientes estudios:
+
+#### *4.1.1  In vitro*
+
+Por medio de cultivos de células Vero E6 en DMEM con suero bovino fetal, infectados con SARS-CoV-2 a fin de observar en ensayos de placa estándar si el comportamiento fármaco-patógeno in silico es el adecuado.
+
+![Imagen16](https://user-images.githubusercontent.com/78750648/130306878-0decd220-b7ad-4278-ab8e-20a239ccb66c.png)
+
+*Esquema 2. Diseño del estudio in vitro para reposicionamiento de Favipiravir-RTP*
+
+#### *4.1.2  In vivo*
+
+Utilizar modelos animales de rata blanca o macaco rhesus, de acuerdo con los recursos del laboratorio, para la infección por SARS-CoV-2 con el objetivo de lograr conocer la farmacodinámica del antiviral, su efecto terapéutico, así como de sus posibles efectos secundarios. Es fundamental asignar todos los animales aleatoriamente en grupos e inocular a diversas dosis, sin exceder la dosis máxima tolerada.
+
+![Imagen17](https://user-images.githubusercontent.com/78750648/130306901-5c6b8a95-a192-4796-9681-ee10d7c7a6cb.png)
+
+*Esquema 3. Diseño del estudio in vivo para reposicionamiento de Favipiravir-RTP*
+
+#### *4.1.3  Clínico*
+
+Se recomienda realizar un estudio paralelo, doble ciego, aleatorizado, controlado con placebo (Esquema 4) para personas SARS-CoV-2 positivo con criterios de exclusión de embarazadas y coinfección con influenza. Utilizando distintas dosis (no mayores a la máxima tolerada), así como un placebo con cuidados médicos convencionalmente utilizados.
+
+![Imagen18](https://user-images.githubusercontent.com/78750648/130306927-36a11a7a-3dfe-45ee-87e2-1090e8827fa6.png)
+
+*Esquema 4. Diseño del estudio clínico para reposicionamiento de Favipiravir-RTP*
+
+Es importante evaluar la eficacia y seguridad, así como seleccionar la dosis óptima de Favipiravir como adyuvante para la recuperación de pacientes COVID-19 positivos.
