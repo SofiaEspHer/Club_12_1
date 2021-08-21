@@ -160,3 +160,20 @@ Se recomienda realizar un estudio paralelo, doble ciego, aleatorizado, controlad
 *Esquema 4. Diseño del estudio clínico para reposicionamiento de Favipiravir-RTP*
 
 Es importante evaluar la eficacia y seguridad, así como seleccionar la dosis óptima de Favipiravir como adyuvante para la recuperación de pacientes COVID-19 positivos.
+
+## **5. Conclusiones**
+
+Los análisis in silico sobre la interacción del Favipiravir en su forma activa Favipiravir-RTP sobre la RdRp presente en SARS-CoV-2 permiten intuir que este fármaco tiene potencial antiviral, y por ende, podría funcionar como tratamiento para la Covid-19. Es necesario la realización de estudios in vitro, in vivo y preclínicos que cumplan con las características mencionadas en los diferentes diseños de estudios mencionados en el presente artículo para poder recomendar y aplicar dicho fármaco como un tratamiento eficaz, ya sea de forma individual o en combinación con algún otro medicamento y poder cumplir con el objetivo de salud y bienestar de la Age.
+
+## **6. Bibliografía**
+
+1.	CONACYT-CentroGeo-GeoInt-DataLab (2020) Covid-19 México. https://datos.covid-19.conacyt.mx/#COMNac
+2.	Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021)
+3.	Saldívar, F., Prieto, F. & Medina, J.L.(2016) Descubrimiento y desarrollo de fármacos: un enfoque computacional. Educación Química 28, 51-58.
+4.	Ferreira, L., dos Santos, R.N, Oliva, G. & Andricopulo, A. (2015) Molecuar Docking and Structure-Based Drug Design Strategies. Molecules, 20, 13384-13421 
+5.	Hillen, H. S., Kokic, G., Farnung, L., Dienemann, C., Tegunov, D., & Cramer, P. (2020). Structure of replicating SARS-CoV-2 polymerase. Nature, 584(7819), 154-156.
+6.	O. Trott, A. J. Olson,                                        AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization and       multithreading, Journal of Computational Chemistry 31 (2010) 455-461 http://doi.org/10.1002/jcc.21334
+7.	Carranza-Aranda, A. S., Segura-Cabrera, A., Cárdenas-Vargas, A., & Herrera-Rodríguez, S. E. (2020). Reposicionamiento de fármacos identificados por métodos computacionales (SVBS), para su uso como terapias contra el cáncer. Salud Jalisco, 7(1), 48-57.
+8.	Carrasco, G., García, D.E. & Tortosa, F. (2020) Uso de Favipiravir en COVID-19. Red Argentina Pública de Evaluación de Tecnologías Sanitarias. https://docs.bvsalud.org/biblioref/2020/10/1123245/favipiravir2-1.pdf 
+9.	Furuta, Y., Komeno, T., & Nakamura, T. (2017). Favipiravir (T-705), a broad spectrum inhibitor of viral RNA polymerase. Proceedings of the Japan Academy, Series B, 93(7), 449-463.
+10.	Londhe, A. M., Gadhe, C. G., Lim, S. M., & Pae, A. N. (2019). Investigation of molecular details of Keap1-Nrf2 inhibitors using molecular dynamics and umbrella sampling techniques. Molecules, 24(22), 4085.
