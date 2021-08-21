@@ -1,1 +1,1 @@
-https://elliot-ruiz96.github.io/Club_12_1/
+https://elliot-ruiz96.github.io/The-Purpose-of-Repurposing-Favipiravir/
