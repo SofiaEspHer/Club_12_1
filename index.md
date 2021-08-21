@@ -10,7 +10,7 @@ Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
 
 La emergencia sanitaria causada por la COVID-19 (Coronavirus disease-2019) ha cobrado hasta principios de agosto 256,246 vidas (CONACYT, 2020) debido a la falta de un tratamiento, encendiendo las alarmas sanitarias a nivel mundial desde el inicio de la pandemia; aún con la aplicación de vacunas aprobadas por emergencia sanitaria, tan sólo el 24.2% de la población mundial ha sido inmunizada (Mathieu, E. et al. 2021), sin mencionar que sólo funcionan como medio preventivo de un cuadro grave de la enfermedad y no como tratamiento contra ella. Es por esto lo que se ha convertido en una necesidad el desarrollo de un fármaco antiviral contra SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2), sin embargo, el desarrollo de un fármaco de in novo es un procedimiento muy largo y costoso. Considerando lo anterior se han desarrollado diversos estudios de reposicionamiento de fármacos, basados en el uso de un fármaco existente con un nuevo fin terapéutico contra el COVID-19.
 
-![Figura 1  Estructura de Favipiravir-RTP en su forma activa](https://user-images.githubusercontent.com/78750648/130305434-651375f0-fd4f-4aa3-8b71-2434fd5ec6a6.png)
+[![Figura 1  Estructura de Favipiravir-RTP en su forma activa](https://user-images.githubusercontent.com/78750648/130305434-651375f0-fd4f-4aa3-8b71-2434fd5ec6a6.png)](https://drive.google.com/file/d/19UUWIch3K4xhXOizby23gQfjP_JocyAH/view?usp=sharing)
 
 *Figura 1. Estructura de Favipiravir-RTP en su forma activa*
 
@@ -48,7 +48,7 @@ Por medio de la plataforma SwissParam, se obtuvieron los archivos necesarios par
 
 Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo, para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
 
-![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)
+[![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)]
 
 *Figura 3. Primer modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.9 kcal/mol*
 
