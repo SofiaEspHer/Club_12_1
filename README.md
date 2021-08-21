@@ -47,7 +47,20 @@ Por medio de la plataforma SwissParam, se obtuvieron los archivos necesarios par
 ### *3.1  Acoplamiento molecular  RdRp-Favipiravir*
 
 Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
+
+![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)
+
+*Figura 3. Primer modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.9 kcal/mol*
+
+https://user-images.githubusercontent.com/78750648/130306027-c628bf84-5d74-4d88-b787-35cc16e9eb55.mov
+
 Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad  y es posible que dentro del organismo logre bloquear a la RdRp.
+
+![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)
+
+*Figura 4. Noveno modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.4 kcal/mol*
+
+https://user-images.githubusercontent.com/78750648/130306066-618b5f54-98a6-474f-b5ef-38f0149df7ab.mov
 
 | Modelo  | Afinidad (kcal/mol) |
 | ------------- | ------------- |
@@ -65,8 +78,6 @@ Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interac
 Tabla 1. Afinidad del acoplamiento molecular de RdRp-Favipiravir
 
 ### *3.2  Dinámica molecular  RdRp-Favipiravir*
-
-
 
 #### *3.2.1  Presión*
 
