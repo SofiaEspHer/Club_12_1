@@ -4,7 +4,7 @@ Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
 
 **Benemérita Universidad Autónoma de Puebla. Pue,Pue,México; Universidad Michoacana de San Nicolás de Hidalgo. Morelia, Mich, México; Centro de Investigación y de Estudios Avanzados del IPN. Zapopán, Jal, México.**
 
-https://www.youtube.com/watch?v=6DeDzsCGbsQ&list=RD6DeDzsCGbsQ&start_radio=1&ab_channel=BBCMusic
+[![Watch the video](https://img.youtube.com/vi/6DeDzsCGbsQ&list=RD6DeDzsCGbsQ&start_radio=1&ab_channel=BBCMusic/maxresdefault.jpg)](https://youtu.be/6DeDzsCGbsQ&list=RD6DeDzsCGbsQ&start_radio=1&ab_channel=BBCMusic)
 
 ## **1. Introducción**
 
