@@ -48,19 +48,19 @@ Por medio de la plataforma SwissParam, se obtuvieron los archivos necesarios par
 
 Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo, para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
 
-![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)
-
-*Figura 3. Primer modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.9 kcal/mol*
+![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png) 
 
 https://user-images.githubusercontent.com/78750648/130306027-c628bf84-5d74-4d88-b787-35cc16e9eb55.mov
 
+*Figura 3. Primer modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.9 kcal/mol*
+
 Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad y es posible que dentro del organismo logre bloquear a la RdRp.
 
-![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)
-
-*Figura 4. Noveno modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.4 kcal/mol*
+![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png) 
 
 https://user-images.githubusercontent.com/78750648/130306066-618b5f54-98a6-474f-b5ef-38f0149df7ab.mov
+
+*Figura 4. Noveno modelo de interacción entre Favipiravir y el sitio activo (residuos D760 y D761) de RpRd con afinidad de -6.4 kcal/mol*
 
 | Modelo  | Afinidad (kcal/mol) |
 | -| - |
@@ -93,8 +93,38 @@ Los valores de presión en ambos modelos varían ligeramente, pues tomando en cu
 
 Para el modelo uno la densidad comienza a ser constante a partir de 〜10 ps con un valor de hasta >1015 kg/m3 mientras que para el modelo nueve es a partir de 〜5 ps y >1015 kg/m3 por lo tanto es posible asegurar que para ambas dinámicas moleculares no se necesitan 100 ps para lograr el equilibro del sistema, sin embargo, mientras haya visitado el espacio-fase durante un mayor tiempo en nuestro sistema será mejor.
 
+![Imagen8](https://user-images.githubusercontent.com/78750648/130306288-f2e2969b-a55e-4a04-8544-806de66e33c7.png) ![Imagen9](https://user-images.githubusercontent.com/78750648/130306290-847d62c9-9a09-46b1-ac76-e3a5ee944481.png)
+
+*Figura 6. Densidad de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp respectivamente*
+
 #### *3.2.3 Raíz de la desviación cuadrática media (RDCM)*
+
+La diferencia entre los resultados de la raíz de la desviación cuadrática media (RDCM) de ambos modelos es notable, pues la estabilidad del primer modelo se nivela a 〜0.175 nm con un pico mayor en 〜0.245 nm y un pico menor en 0.130 nm, siendo la diferencia entre ambos picos de 〜0.115nm; en cambio el último modelo a 〜0.27nm logra estabilidad, con picos de mayor y menor valor, 0.30 nm y 0.21 nm respectivamente, con una diferencia de 0.09 nm, evidenciando que el último modelo es más estable.
+
+![Imagen10](https://user-images.githubusercontent.com/78750648/130306313-522fed4c-0502-41fb-a2f8-614fb12e74fe.png) ![Imagen11](https://user-images.githubusercontent.com/78750648/130306314-2bb6353b-da8f-49d0-8229-588a8c19d58c.png)
+
+*Figura 7. RDCM de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp*
 
 #### *3.2.4  Potencial de energía Lennard-Jones*
 
+Recordando que el potencial de Lennard-Jones (LJ) es para la interacción de dos átomos, el modelo nueve logra su mejor interacción a los 4600 ps con 〜135 kJ/mol mientras el primer modelo la logra a los 340 ps con 〜165 kJ/mol. Por lo anterior es posible decir que las partículas del primer modelo están mayormente unidas porque la distancia entre sus centros es más baja que la del modelo nueve.
+
+![Imagen12](https://user-images.githubusercontent.com/78750648/130306372-9bd9325d-5dbb-44a0-ad65-aefdd350f3e9.png) ![Imagen13](https://user-images.githubusercontent.com/78750648/130306373-d671c51c-cb93-4294-913d-a43bc8032cd0.png)
+
+*Figura 8. Potencial de energía LJ de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp*
+
 #### *3.2.5  Potencial de energía Coulombic (Coul-SR)*
+
+El modelo nueve, tiene el valor más alto de potencial siendo de aproximadamente -640 kJ/mol, es decir, su interacción electrostática es 290 veces más que la del primer modelo, con -350 kJ/mol. Ahora, aunque la interacción del último modelo es mayor, esta interacción no se mantuvo por mucho tiempo, lo contrario al primer modelo, ya que sus interacciones fueron más estables. 
+
+![Imagen14](https://user-images.githubusercontent.com/78750648/130306491-b6f67259-f833-4909-88c1-b6da9bdbc682.png) ![Imagen15](https://user-images.githubusercontent.com/78750648/130306494-33129926-b3d6-41ca-a321-ff1033a97eb2.png)
+
+*Figura 9. Potencial de energía Coul-SR de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp*
+
+Comparando todas las interacciones  entre el primer modelo de acoplamiento y el último podemos observar que, sin importar la diferencia de valores entre los parámetros anteriores, es evidente que el fármaco Favipiravir-RTP tiene interacción con la RdRp. Asimismo, el modelo con menor afinidad en el acoplamiento molecular, demostró tener un mayor potencial de Coul-SR, arrojando que tiene una fuerte interacción electrostática pero por menor tiempo. Por último, el primer modelo presentó valores bajos en las interacciones pero mucho más estables, por lo cual es posible suponer que la inhibición de la RdRp puede lograrse sin problemas.
+
+https://user-images.githubusercontent.com/78750648/130306661-1b7365b4-e190-4bee-abbd-3f399ad8559a.mp4
+
+https://user-images.githubusercontent.com/78750648/130306671-b6a643e9-2e58-4df7-81ce-569f9dd021e8.mp4
+
+
