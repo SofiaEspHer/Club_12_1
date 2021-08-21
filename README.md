@@ -6,7 +6,7 @@ Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
 
 ## **1. Introducción**
 
-La emergencia sanitaria causada por la COVID-19 (Coronavirus disease-2019) ha cobrado hasta principios de agosto 256,246 vidas (CONACYT, 2020) debido a la falta de un tratamiento, encendiendo las alarmas sanitarias a nivel mundial desde el inicio de la pandemia; aún con la aplicación de vacunas aprobadas por emergencia sanitaria, tan sólo el 24.2% de la población mundial ha sido inmunizada (Mathieu, E. et al. 2021), sin mencionar que sólo funcionan como medio preventivo de un cuadro grave de la enfermedad y no como tratamiento contra ella. Es por esto que se ha convertido en una necesidad el desarrollo de un fármaco antiviral contra SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2), sin embargo, el desarrollo de un fármaco de in novo es un procedimiento muy largo y costoso. Considerando lo anterior se han desarrollado diversos estudios de reposicionamiento de fármacos, basados en el uso de un fármaco existente con un nuevo fin terapéutico contra la  COVID-19.
+La emergencia sanitaria causada por la COVID-19 (Coronavirus disease-2019) ha cobrado hasta principios de agosto 256,246 vidas (CONACYT, 2020) debido a la falta de un tratamiento, encendiendo las alarmas sanitarias a nivel mundial desde el inicio de la pandemia; aún con la aplicación de vacunas aprobadas por emergencia sanitaria, tan sólo el 24.2% de la población mundial ha sido inmunizada (Mathieu, E. et al. 2021), sin mencionar que sólo funcionan como medio preventivo de un cuadro grave de la enfermedad y no como tratamiento contra ella. Es por esto lo que se ha convertido en una necesidad el desarrollo de un fármaco antiviral contra SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2), sin embargo, el desarrollo de un fármaco de in novo es un procedimiento muy largo y costoso. Considerando lo anterior se han desarrollado diversos estudios de reposicionamiento de fármacos, basados en el uso de un fármaco existente con un nuevo fin terapéutico contra el COVID-19.
 
 https://user-images.githubusercontent.com/78750648/130305523-ca975e6a-a075-4694-b2e2-e32cacb0bcfe.mov
 
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/78750648/130305523-ca975e6a-a075-4694-
 
 *Figura 1. Estructura de Favipiravir-RTP en su forma activa*
 
-Favipiravir es un profármaco inicialmente utilizado en casos de influenza resistentes al tratamiento convencional. Este es convertido a su forma activa Favipiravir-RTP tal como se vio anteriormente en la Figura 1, tras una ribosilación y fosforilación intracelular, que inhibe la ARN polimerasa dependiente de ARN (RdRp), tal como se muestra en la Figura 2 mediante competencia con los nucleótidos de purina, previniendo la replicación del genoma viral, así como la formación de nuevos viriones, (Esquema 1). El dominio catalítico de la RdRp se encuentra bien conservado entre los virus de ARN, por lo tanto es posible que este antiviral tenga efecto sobre el sitio catalítico de la RdRp del SARS-CoV-2.
+Favipiravir es un profármaco inicialmente utilizado en casos de influenza resistentes al tratamiento convencional. Este es convertido a su forma activa Favipiravir-RTP tal como se vio anteriormente en la Figura 1, tras una ribosilación y fosforilación intracelular, que inhibe la ARN polimerasa dependiente de ARN (RdRp), tal como se muestra en la Figura 2 mediante competencia con los nucleótidos de purina, previniendo la replicación del genoma viral, así como la formación de nuevos viriones (Esquema 1). El dominio catalítico de la RdRp se encuentra bien conservado entre los virus de ARN, por lo tanto, es posible que este antiviral tenga efecto sobre el sitio catalítico de la RdRp del SARS-CoV-2.
 
 ![Figura 2  Estructura de la ARN polimerasa dependiente de ARN (RdRp)](https://user-images.githubusercontent.com/78750648/130305576-ca10e71c-c530-47c2-b5b1-a3be3ef9c9b3.png)
 
@@ -44,9 +44,9 @@ Por medio de la plataforma SwissParam, se obtuvieron los archivos necesarios par
 
 ## **3. Resultados y discusión**
 
-### *3.1  Acoplamiento molecular  RdRp-Favipiravir*
+### *3.1  Acoplamiento molecular RdRp-Favipiravir*
 
-Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
+Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde -6.4 a -6.9 kcal/mol. Sin embargo, para el análisis de dinámica molecular fue vital observar si los modelos interaccionaban con los residuos D760 y D761 pertenecientes al sitio activo de RdRp, destacando que el modelo nueve con una menor afinidad (Tabla 1) tiene una directa unión con el sitio activo de RdRp (Figura 3).
 
 ![Figura 3](https://user-images.githubusercontent.com/78750648/130305972-c45b5320-7f77-45f6-bb52-b5ee9f5fdeb6.png)
 
@@ -54,7 +54,7 @@ Los valores de afinidad en el acoplamiento molecular RdRp-Favipiravir van desde 
 
 https://user-images.githubusercontent.com/78750648/130306027-c628bf84-5d74-4d88-b787-35cc16e9eb55.mov
 
-Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad  y es posible que dentro del organismo logre bloquear a la RdRp.
+Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interacción con los residuos de interés cuenta con los mejores valores de afinidad y es posible que dentro del organismo logre bloquear a la RdRp.
 
 ![Imagen5](https://user-images.githubusercontent.com/78750648/130305999-0622a3d7-3506-4081-9585-4705bb5b8989.png)
 
@@ -63,7 +63,7 @@ Por otra parte, si bien el primer modelo (Figura 4) no tiene una directa interac
 https://user-images.githubusercontent.com/78750648/130306066-618b5f54-98a6-474f-b5ef-38f0149df7ab.mov
 
 | Modelo  | Afinidad (kcal/mol) |
-| ------------- | ------------- |
+| -| - |
 | 1 | -6.9 |
 | 2 | -6.9 |
 | 3 | -6.8 |
@@ -79,9 +79,19 @@ Tabla 1. Afinidad del acoplamiento molecular de RdRp-Favipiravir
 
 ### *3.2  Dinámica molecular  RdRp-Favipiravir*
 
+Finalmente, con las estructuras obtenidas en el docking molecular se utilizó el acoplamiento con mayor afinidad (modelo uno) y el de mejor adaptación al dominio catalítico (modelo nueve) logrando los siguientes resultados.
+
 #### *3.2.1  Presión*
 
+Los valores de presión en ambos modelos varían ligeramente, pues tomando en cuenta la media de los datos, el comportamiento es normal, debido a la fluctuación de la presión mientras está corriendo la simulación de la dinámica molecular, no obstante, el primer modelo alcanza un pico mayor de presión, aproximadamente de 180 bar a diferencia del modelo nueve, aproximadamente 120 bar.
+
+![Imagen6](https://user-images.githubusercontent.com/78750648/130306244-9256d202-e80a-4ac7-8c5f-9df1162ddd4f.png) ![Imagen7](https://user-images.githubusercontent.com/78750648/130306245-a0849e19-ca93-4899-be05-472163c6b9f3.png)
+
+*Figura 5. Presión de los modelos uno y nueve del acoplamiento molecular Favipiravir-RTP-RdRp respectivamente*
+
 #### *3.2.2  Densidad*
+
+Para el modelo uno la densidad comienza a ser constante a partir de 〜10 ps con un valor de hasta >1015 kg/m3 mientras que para el modelo nueve es a partir de 〜5 ps y >1015 kg/m3 por lo tanto es posible asegurar que para ambas dinámicas moleculares no se necesitan 100 ps para lograr el equilibro del sistema, sin embargo, mientras haya visitado el espacio-fase durante un mayor tiempo en nuestro sistema será mejor.
 
 #### *3.2.3 Raíz de la desviación cuadrática media (RDCM)*
 
