@@ -6,6 +6,7 @@ Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
 
 [![Watch the video](https://img.youtube.com/vi/6DeDzsCGbsQ/maxresdefault.jpg)](https://youtu.be/6DeDzsCGbsQ)
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 ## **1. Introducción**
