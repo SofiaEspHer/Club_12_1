@@ -1,3 +1,6 @@
+![187433495_3040353432920207_4824724555766439362_n](https://user-images.githubusercontent.com/78750648/130309627-48bcaecb-2840-4bc2-9a8b-eb81e6cb978e.jpg)
+
+
 # **Evaluación *in silico* de Favipiravir para su reposicionamiento contra COVID-19**
 
 Espinosa-Hernández S. Hurtado-Solórzano J.A. Ruiz-Sánchez E.
