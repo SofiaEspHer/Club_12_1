@@ -137,7 +137,7 @@ Ctrl + Left Click -> Image to watch video
 
 Ctrl + Left Click -> Image to watch video
 
-[![lig2](https://user-images.githubusercontent.com/78750648/130309399-475b41d9-b21e-4e2c-b16c-772618df4934.JPG)]((https://drive.google.com/file/d/1eaP1nPgukzrv2DvbTNhupqNvtJFNrgeD/view?usp=sharing))
+[![lig2](https://user-images.githubusercontent.com/78750648/130309399-475b41d9-b21e-4e2c-b16c-772618df4934.JPG)](https://drive.google.com/file/d/1eaP1nPgukzrv2DvbTNhupqNvtJFNrgeD/view?usp=sharing)
 
 
 Comparando todas las interacciones  entre el primer modelo de acoplamiento y el último podemos observar que, sin importar la diferencia de valores entre los parámetros anteriores, es evidente que el fármaco Favipiravir-RTP tiene interacción con la RdRp. Asimismo, el modelo con menor afinidad en el acoplamiento molecular, demostró tener un mayor potencial de Coul-SR, arrojando que tiene una fuerte interacción electrostática pero por menor tiempo. Por último, el primer modelo presentó valores bajos en las interacciones pero mucho más estables, por lo cual es posible suponer que la inhibición de la RdRp puede lograrse sin problemas.
