@@ -12,7 +12,7 @@ Ruiz Sánchez, Elliot.
 
 **Benemérita Universidad Autónoma de Puebla. Pue,Pue,México; Universidad Michoacana de San Nicolás de Hidalgo. Morelia, Mich, México; Centro de Investigación y de Estudios Avanzados del IPN. Zapopán, Jal, México.**
 
-[![Watch the video](https://img.youtube.com/vi/6DeDzsCGbsQ/maxresdefault.jpg)](https://youtu.be/6DeDzsCGbsQ)
+[![Alt text](https://img.youtube.com/vi/ZZw841ylad0/0.jpg)](https://www.youtube.com/watch?v=ZZw841ylad0)
 
 ## **1. Introducción**
 
